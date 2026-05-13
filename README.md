@@ -1,69 +1,53 @@
-<h1 align="center">
-Tech whizzes, it's Vishnuhari👋
-</h1>
+# Hey, I'm Vishnuhari V A
 
-![](https://komarev.com/ghpvc/?username=vishnuhari17&label=Profile%20views&color=000000&style=for-the-badge)
+CS graduate from FISAT ('26). I build AI products that ship — full-stack apps, RAG systems, agentic tools, and the occasional open-source desktop app. Springer-published, SAP STAR Scholar, and actively looking for AI engineering roles.
 
-Being an autodidact in development, I'm set on creating something truly remarkable.
+---
 
-### Things i could help you with
-- Building high-performance, SEO-friendly websites with React, Next.js, and more for a modern edge.
-- Crafting Python scripts to automate mundane tasks with ease.
-- Architecting backend systems, APIs, and databases for seamless scalability and optimal performance.
-- Developing mobile applications with sleek functionality and user-friendly design.
+## Featured
 
+- **[OpenFlow](https://github.com/vishnuhari17/OpenFlow)** — open-source macOS dictation tool distributed via Homebrew. Progressive-paste architecture achieves ~390ms end-to-end latency, beating the $20/month commercial alternative. `brew install vishnuhari17/tap/openflow`
+- **[HireXpert](https://github.com/vishnuhari17/HireXpert)** — AI hiring platform with semantic resume matching (Pinecone) and voice interviews (ElevenLabs). Cut recruiter screening time by 46%. [Live demo](https://hirexpert.vercel.app)
+- **[AI Document Rack](https://github.com/vishnuhari17/AI-Document-Rack)** — RAG over PDFs, images, and handwritten notes. 95% retrieval accuracy across 1000+ documents. [Live demo](https://ai-document-rack.vercel.app)
+- **[ChartEase](https://github.com/vishnuhari17/ChartEase)** — AI data visualization platform. Raw Excel → embeddable charts in under two minutes. 90% reduction in manual charting time. [Live demo](https://www.chartease.tech)
 
+---
 
-## I am experienced in
-<h3 align="center">
+## Stack
 
-![Static Badge](https://img.shields.io/badge/Python-%233776AB?style=for-the-badge&logo=python&labelColor=black)
-    ![Static Badge](https://img.shields.io/badge/C-%23A8B9CC?style=for-the-badge&logo=c&labelColor=black)
-    ![Java Script](https://img.shields.io/badge/Javascript-%23F7DF1E?style=for-the-badge&logo=javascript&labelColor=black)
-    ![Static Badge](https://img.shields.io/badge/Java-%23F78D0A?style=for-the-badge&logo=openjdk&labelColor=black)
-    ![Static Badge](https://img.shields.io/badge/html5-%23E34F26?style=for-the-badge&logo=html5&labelColor=black)
-    ![Static Badge](https://img.shields.io/badge/css-%231572B6?style=for-the-badge&logo=css3&labelColor=black)
-    ![Static Badge](https://img.shields.io/badge/nextjs-%23000000?style=for-the-badge&logo=nextdotjs&labelColor=black)
-    ![Static Badge](https://img.shields.io/badge/nodejs-%235FA04E?style=for-the-badge&logo=nodedotjs&labelColor=black)
-    ![Static Badge](https://img.shields.io/badge/mongodb-%2347A248?style=for-the-badge&logo=mongodb&labelColor=black)
-    ![Static Badge](https://img.shields.io/badge/tailwindcss-%2306B6D4?style=for-the-badge&logo=tailwindcss&labelColor=black)
-    ![Static Badge](https://img.shields.io/badge/netlify-%2300C7B7?style=for-the-badge&logo=netlify&labelColor=black)
-    ![Static Badge](https://img.shields.io/badge/vercel-%23000000?style=for-the-badge&logo=vercel&labelColor=black)
-    ![Static Badge](https://img.shields.io/badge/chatgpt-%23412991?style=for-the-badge&logo=openai&labelColor=black)
-    ![Static Badge](https://img.shields.io/badge/git-%23F05032?style=for-the-badge&logo=git&labelColor=black)
-    ![Static Badge](https://img.shields.io/badge/github-%23181717?style=for-the-badge&logo=github&labelColor=black)
-    ![Static Badge](https://img.shields.io/badge/linux-%23FCC624?style=for-the-badge&logo=linux&labelColor=black)
-    ![Static Badge](https://img.shields.io/badge/mysql-%234479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=black)
-    ![Static Badge](https://img.shields.io/badge/notion-%23000000?style=for-the-badge&logo=notion&logoColor=white&labelColor=black)
-    ![Static Badge](https://img.shields.io/badge/npm-%23CB3837?style=for-the-badge&logo=npm&logoColor=white&labelColor=black)
-    ![Static Badge](https://img.shields.io/badge/express-%23000000?style=for-the-badge&logo=express&logoColor=white&labelColor=black)
-    ![Static Badge](https://img.shields.io/badge/selenium-%2343B02A?style=for-the-badge&logo=selenium&logoColor=white&labelColor=black)
+**AI/ML** — Python, FastAPI, LangChain, OpenAI, Pinecone, RAG, Prompt Engineering, AI Agents
 
-</h3>
+**Web** — Next.js, React, TypeScript, Tailwind
 
-## Diving deep into honing my expertise in..
-<h3 align="center">
+**Infra** — PostgreSQL, MongoDB, Redis, Celery, Docker, GCP, AWS
 
-![Static Badge](https://img.shields.io/badge/flutter-%2302569B?style=for-the-badge&logo=flutter&logoColor=white&labelColor=black)
-    ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-    ![Static Badge](https://img.shields.io/badge/postgresql-%234169E1?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=black)
+**Mobile & more** — Flutter, Firebase, Git, Linux
 
-    
-</h3>
+---
 
-## Ping Me
+## Quick facts
 
-- Website: <span style="font-family: 'Meslo Nerd Font', monospace;">[@vish17.vercel.app](https://vish17.vercel.app/)</span>
-- Twitter: <span style="font-family: 'Meslo Nerd Font', monospace;">[@vishnuhari_17](https://twitter.com/vishnuhari_17)</span>
+- Published in Springer LNNS (Vol. 1508): [AI-Enhanced Context-Aware Intelligent Form Validator](https://doi.org/10.1007/978-981-96-8998-9_19)
+- SAP STAR Scholar (selected, 2026)
+- 5× hackathon winner and Best Academic Performer (CSE '22–'26 batch, FISAT)
+- Previously interned at Lylhelp Ltd. (London, remote) — built a WhatsApp messaging engine that lifted retention by 13%
 
-## I'm Open for Collaboration
+---
 
-My unwavering commitment to excellence guarantees that every project is completed with meticulous attention to detail and a high level of professionalism. Let's work together to turn your ideas into reality. Feel free to connect with me via [Email](mailto:vishnuhari.anup@gmail.com) or [LinkedIn](https://www.linkedin.com/in/vishnuhari-v-a-9722a0255/).
+## Elsewhere
+
+- Portfolio: [vishnuhari17.dev](https://vishnuhari17.dev)
+- LinkedIn: [linkedin.com/in/vishnuhari17](https://www.linkedin.com/in/vishnuhari17)
+- Email: [vishnuhari.anup@gmail.com](mailto:vishnuhari.anup@gmail.com)
+
+---
 
 ## Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=vishnuhari17&show_icons=true&theme=dark&hide_border=true)
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=vishnuhari17&theme=dark&hide_border=true)
+![](https://github-profile-trophy.vercel.app/?username=vishnuhari17&theme=darkhub&no-frame=true&column=7&margin-w=15)
 
-![](https://github-contributor-stats.vercel.app/api?username=vishnuhari17&limit=5&theme=dark&hide_border=true&combine_all_yearly_contributions=true)
+---
+
+*Open to AI Engineer / SWE roles — India + Remote.*
