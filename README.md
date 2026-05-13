@@ -30,6 +30,7 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
 ![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-DD2C00?style=for-the-badge&logo=firebase&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -83,6 +84,8 @@ AI data viz platform — raw Excel to embeddable charts in under two minutes. 90
 - 🥇 **5× Hackathon Winner** — Codex, Innovista, TakeDown, Litecode, Design Challenge
 - 🎓 **Best Academic Performer** — CSE '22–'26 Batch, FISAT
 - 💼 **Lylhelp Ltd. Intern** — London (Remote) · built WhatsApp engine, lifted retention by 13%
+- 💼 **Nest Digital Intern** — Infopark, Kochi · enhanced UI performance in production React/Next.js apps
+- 🔧 **Open Source** — translated ProjectHut documentation to Malayalam; Brew tap maintainer
 
 ---
 
