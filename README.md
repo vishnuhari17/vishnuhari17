@@ -78,16 +78,11 @@ AI data viz platform — raw Excel to embeddable charts in under two minutes. 90
 
 ### Highlights
 
-<div align="center">
-
-| | | |
-|:---:|:---:|:---:|
-| 📚 **Springer Published** | 🏆 **SAP STAR Scholar** | 🥇 **5× Hackathon Winner** |
-| LNNS Vol. 1508, WIN 2025 | Selected 2026 | Codex, Innovista, TakeDown, Litecode, Design Challenge |
-| 🎓 **Best Academic Performer** | 💼 **Lylhelp Ltd. Intern** | 📄 **Best Main Project** |
-| CSE '22–'26 Batch, FISAT | London, Remote · 13% retention lift | FISAT 2026 Batch |
-
-</div>
+- 📚 **Springer Published** — LNNS Vol. 1508: [AI-Enhanced Context-Aware Intelligent Form Validator](https://doi.org/10.1007/978-981-96-8998-9_19), presented at WIN 2025
+- 🏆 **SAP STAR Scholar** — selected 2026 through competitive screening at SAP Labs
+- 🥇 **5× Hackathon Winner** — Codex, Innovista, TakeDown, Litecode, Design Challenge
+- 🎓 **Best Academic Performer** — CSE '22–'26 Batch, FISAT
+- 💼 **Lylhelp Ltd. Intern** — London (Remote) · built WhatsApp engine, lifted retention by 13%
 
 ---
 
@@ -95,9 +90,11 @@ AI data viz platform — raw Excel to embeddable charts in under two minutes. 90
 
 ### Stats
 
-![](https://github-readme-stats.vercel.app/api?username=vishnuhari17&show_icons=true&theme=github_dark&hide_border=true&count_private=true)
+![](https://github-readme-stats.vercel.app/api?username=vishnuhari17&show_icons=true&theme=dark&hide_border=true)
 
-![](https://github-profile-trophy.vercel.app/?username=vishnuhari17&theme=darkhub&no-frame=true&column=7&margin-w=15)
+![](https://streak-stats.demolab.com/?user=vishnuhari17&theme=dark&hide_border=true)
+
+![](https://github-contributor-stats.vercel.app/api?username=vishnuhari17&limit=5&theme=dark&hide_border=true&combine_all_yearly_contributions=true)
 
 ---
 
