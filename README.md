@@ -81,7 +81,8 @@ AI data viz platform — raw Excel to embeddable charts in under two minutes. 90
 
 - 📚 **Springer Published** — LNNS Vol. 1508: [AI-Enhanced Context-Aware Intelligent Form Validator](https://doi.org/10.1007/978-981-96-8998-9_19), presented at WIN 2025
 - 🏆 **SAP STAR Scholar** — selected 2026 through competitive screening at SAP Labs
-- 🥇 **5× Hackathon Winner** — Codex, Innovista, TakeDown, Litecode, Design Challenge
+- 🥇 **5× Hackathon Winner** — Codex, CineHack, TakeDown, WIEvE EPILOGUE, Design Challenge
+- 🏅 **Other Competitions** — 1st Prize @ Innovista Innovation Challenge & Litecode Programming Competition
 - 🎓 **Best Academic Performer** — CSE '22–'26 Batch, FISAT
 - 💼 **Lylhelp Ltd. Intern** — London (Remote) · built WhatsApp engine, lifted retention by 13%
 - 💼 **Nest Digital Intern** — Infopark, Kochi · enhanced UI performance in production React/Next.js apps
